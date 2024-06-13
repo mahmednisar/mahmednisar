@@ -20,7 +20,7 @@
 
 ---
 
-### 💻 Tech Stack:
+
 
   <p align="center"> 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
@@ -67,19 +67,16 @@
 <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio">
   </p>
 
-  
- <h3>📊 GitHub Stats:</h3>
+   ---
 <p align="center"> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmednisar&theme=tokyonight&hide_border=false" alt="GitHub Streak"><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmednisar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
-
-<h3>✍️ Random Dev Quote</h3>
+ 
 <p align="center"> 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 </p>
-
-<h3>🔝 Top Contributed Repo</h3>
+ 
 <p align="center"> 
 <img src="https://github-contributor-stats.vercel.app/api?username=mahmednisar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p>
