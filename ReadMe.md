@@ -66,20 +66,25 @@
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
 <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio">
   </p>
- 
-# 📊 GitHub Stats:
+
+  
+ <h3>📊 GitHub Stats:</h3>
 <div style="width: 100%;">
-    ![](https://github-readme-stats.vercel.app/api?username=mahmednisar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=mahmednisar&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmednisar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api?username=mahmednisar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmednisar&theme=tokyonight&hide_border=false" alt="GitHub Streak"><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmednisar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<h3>✍️ Random Dev Quote</h3>
+<div style="width: 100%;">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahmednisar&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=mahmednisar&icon=0&color=1)](https://visitcount.itsvg.in)
-
+<h3>🔝 Top Contributed Repo</h3>
+<div style="width: 100%;">
+<img src="https://github-contributor-stats.vercel.app/api?username=mahmednisar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+</div>
+<hr>
+<div style="width: 100%;">
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=mahmednisar&icon=0&color=1" alt="Visit Count"></a>
+</div>
