@@ -69,21 +69,20 @@
 
   
  <h3>📊 GitHub Stats:</h3>
-<div style="width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mahmednisar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
+<p align="center"> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmednisar&theme=tokyonight&hide_border=false" alt="GitHub Streak"><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmednisar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</div>
+</p>
 
 <h3>✍️ Random Dev Quote</h3>
-<div style="width: 100%;">
+<p align="center"> 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
-</div>
+</p>
 
 <h3>🔝 Top Contributed Repo</h3>
-<div style="width: 100%;">
+<p align="center"> 
 <img src="https://github-contributor-stats.vercel.app/api?username=mahmednisar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-</div>
+</p>
 <hr>
 <div style="width: 100%;">
 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=mahmednisar&icon=0&color=1" alt="Visit Count"></a>
