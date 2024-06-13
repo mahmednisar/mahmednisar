@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi there, I'm Nisar Ahmed!</h1>
 
  <p align="center"> 
-<a href="https://instagram.com/mahmednisar"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://linkedin.com/in/mahmednisar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://medium.com/@mahmednisar"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
 <a href="https://x.com/mahmednisar"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
 <a href="https://codepen.io/mahmednisar"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
+<a href="https://instagram.com/mahmednisar"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
  </p>
 
 > I'm a seasoned Senior Full Stack Developer with over 4 years of hands-on experience in technologies like ASP.NET Core, Angular, SQL Server, jQuery, JavaScript, and MySQL. I have a proven track record of successfully leading impactful projects and managing teams effectively.
