@@ -1,6 +1,15 @@
-# 💫 About Me:
-Full Stack Web Applications<br>Projects <br>Backend Service<br>Docker & Kubernetes<br>Web Related<br>
+<h1 align="center">👋 Hi there, I'm Nisar Ahmed!</h1>
 
+I'm a seasoned Senior Full Stack Developer with over 4 years of hands-on experience in technologies like ASP.NET Core, Angular, SQL Server, jQuery, JavaScript, and MySQL. I have a proven track record of successfully leading impactful projects and managing teams effectively.
+
+## 🚀 About Me
+
+- 💼 Currently, I'm at Crescerance India Pvt. Ltd.
+- 🎓 Completed my Bachelor's in Technology at Vivekananda Global University, Jaipur,.
+- 🌱 Passionate about leveraging technology to create positive impact solutions.
+- 🤝 Open to collaborations in web development projects using .NET , C#, Angular, and more.
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahmednisar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmednisar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mahmednisar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahmednisar) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mahmednisar) 
