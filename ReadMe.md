@@ -7,9 +7,9 @@
 <a href="https://x.com/mahmednisar"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
 <a href="https://codepen.io/mahmednisar"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen"></a>
  </p>
->
->I'm a seasoned Senior Full Stack Developer with over 4 years of hands-on experience in technologies like ASP.NET Core, Angular, SQL Server, jQuery, JavaScript, and MySQL. I have a proven track record of successfully leading impactful projects and managing teams effectively.
->
+
+> I'm a seasoned Senior Full Stack Developer with over 4 years of hands-on experience in technologies like ASP.NET Core, Angular, SQL Server, jQuery, JavaScript, and MySQL. I have a proven track record of successfully leading impactful projects and managing teams effectively.
+
 
 ### 🚀 About Me
 
